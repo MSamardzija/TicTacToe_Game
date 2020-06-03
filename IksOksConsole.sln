@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IksOksConsole", "Zadatak4IKSOKS\IksOksConsole.csproj", "{3516FD7A-47EF-4ABB-8859-8A2AE1A33EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3516FD7A-47EF-4ABB-8859-8A2AE1A33EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3516FD7A-47EF-4ABB-8859-8A2AE1A33EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3516FD7A-47EF-4ABB-8859-8A2AE1A33EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3516FD7A-47EF-4ABB-8859-8A2AE1A33EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8CBDC7A-47A3-4EA0-A313-7D133472E6F9}
+	EndGlobalSection
+EndGlobal
